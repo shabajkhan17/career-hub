@@ -1,0 +1,88 @@
+{
+  "job_posts": [
+    {
+      "company_logo": "https://i.ibb.co/3fS2v7f/google-1-1-1.png",
+      "company_name": "ABC Software",
+      "job_title": "Software Engineer",
+      "job_salary": "$80,000 - $100,000",
+      "job_location": "New York, NY",
+      "job_description": "ABC Software is seeking a talented Software Engineer to join our team. The ideal candidate will have experience in developing and maintaining software solutions.",
+      "job_responsibilities": "In this role, you will be responsible for designing, developing, and maintaining software solutions. This includes writing code, debugging issues, and working collaboratively with other team members to ensure the success of our products.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experience_requirements": "3+ years of experience in software development",
+      "contact_information": "Please send your resume to careers@abcsoftware.com",
+      "job_type": "Full-time",
+      "job_nature": "On-site"
+    },
+    {
+      "company_logo": "https://i.ibb.co/ngpMfbX/Group-10021.png",
+      "company_name": "ABC Software",
+      "job_title": "Product Manager",
+      "job_salary": "$100,000 - $120,000",
+      "job_location": "San Francisco, CA",
+      "job_description": "ABC Software is seeking a Product Manager to help drive the success of our products. The ideal candidate will have experience in managing product development and launching successful products.",
+      "job_responsibilities": "In this role, you will be responsible for managing the product development lifecycle, from ideation to launch. You will work closely with cross-functional teams to define product requirements, develop product roadmaps, and ensure the successful launch of our products.",
+      "educational_requirements": "Bachelor's degree in Business or related field",
+      "experience_requirements": "5+ years of experience in product management",
+      "contact_information": "Please send your resume to careers@abcsoftware.com",
+      "job_type": "Full-time",
+      "job_nature": "Remote"
+    },
+    {
+      "company_logo": "https://i.ibb.co/phK6Yp2/netflix-4-1.png",
+      "company_name": "ABC Software",
+      "job_title": "Data Analyst",
+      "job_salary": "$70,000 - $90,000",
+      "job_location": "Seattle, WA",
+      "job_description": "ABC Software is seeking a Data Analyst to join our team. The ideal candidate will have experience in analyzing data and providing insights to drive business decisions.",
+      "job_responsibilities": "In this role, you will be responsible for analyzing data to provide insights to drive business decisions. You will work closely with cross-functional teams to define key performance indicators, develop reports and dashboards, and provide insights to drive business growth.",
+      "educational_requirements": "Bachelor's degree in Statistics, Computer Science, or related field",
+      "experience_requirements": "2+ years of experience in data analysis or related field",
+      "contact_information": "Please send your resume to careers@abcsoftware.com",
+      "job_type": "Full-time",
+      "job_nature": "On-site"
+    },
+    {
+      "company_logo": "https://i.ibb.co/n6rP2mP/tesla-9-1.png",
+      "company_name": "ABC Software",
+      "job_title": "DevOps Engineer",
+      "job_salary": "$90,000 - $110,000",
+      "job_location": "Austin, TX",
+      "job_description": "ABC Software is seeking a DevOps Engineer to help us build and maintain our infrastructure. The ideal candidate will have experience in automating infrastructure deployment and scaling.",
+      "job_responsibilities": "In this role, you will be responsible for designing, building, and maintaining our infrastructure. You will work closely with our development team to automate infrastructure deployment, improve monitoring and logging, and ensure the scalability and reliability of our services.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experience_requirements": "3+ years of experience in DevOps or related field",
+      "contact_information": "Please send your resume to careers@abcsoftware.com",
+      "job_type": "Full-time",
+      "job_nature": "Remote"
+    },
+    {
+      "company_logo": "https://i.ibb.co/3fS2v7f/google-1-1-1.png",
+      "company_name": "ABC Software",
+      "job_title": "Technical Writer",
+      "job_salary": "$60,000 - $80,000",
+      "job_location": "Chicago, IL",
+      "job_description": "ABC Software is seeking a Technical Writer to help us create high-quality technical documentation. The ideal candidate will have experience in writing and editing technical content.",
+      "job_responsibilities": "In this role, you will be responsible for creating and maintaining technical documentation, such as user manuals, developer guides, and API references. You will work closely with our development team to understand the features and functionality of our products, and collaborate with our design team to create clear and concise documentation.",
+      "educational_requirements": "Bachelor's degree in Technical Communication or related field",
+      "experience_requirements": "2+ years of experience in technical writing or related field",
+      "contact_information": "Please send your resume to careers@abcsoftware.com",
+      "job_type": "Full-time",
+      "job_nature": "On-site"
+    },
+    {
+      "company_logo": "https://i.ibb.co/n6rP2mP/tesla-9-1.png",
+      "company_name": "ABC Software",
+      "job_title": "Mobile Developer",
+      "job_salary": "$80,000 - $100,000",
+      "job_location": "Los Angeles, CA",
+      "job_description": "ABC Software is seeking a Mobile Developer to help us build and maintain our mobile applications. The ideal candidate will have experience in developing mobile applications for iOS and Android platforms.",
+      "job_responsibilities": "In this role, you will be responsible for developing and maintaining our mobile applications. You will work closely with our design team to implement UI/UX designs, collaborate with our backend team to integrate APIs, and ensure the quality and performance of our applications.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experience_requirements": "3+ years of experience in mobile development or related field",
+      "contact_information": "Please send your resume to careers@abcsoftware.com",
+      "job_type": "Full-time",
+      "job_nature": "On-site"
+    }
+  ]
+}

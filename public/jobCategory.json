@@ -1,0 +1,29 @@
+{
+  "job_categories": [
+    {
+      
+      "category_name": "Technology",
+      "category_description": "Jobs related to the development and management of technology solutions.",
+      "category_image": "https://i.ibb.co/DkJtNJS/business-1.png"
+    },
+    {
+      
+      "category_name": "Sales",
+      "category_description": "Jobs related to selling and marketing products and services.",
+      "category_image": "https://i.ibb.co/gJ0mhMF/accounts-1.png"
+    },
+    {
+      
+      "category_name": "Finance",
+      "category_description": "Jobs related to managing financial operations and investments.",
+      "category_image": "https://i.ibb.co/3RNKvdx/chip-1.png"
+    },
+    {
+      
+      "category_name": "Marketing",
+      "category_description": "Jobs related to promoting and advertising products and services.",
+      "category_image": "https://i.ibb.co/LvBYSXz/social-media-1.png"
+    }
+  ]
+}
+
